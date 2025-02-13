@@ -1,8 +1,10 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+postgres:15-alpine
+redis:7.2.3-alpine
+apache/kvrocks:2.7.0
 cvat/server:dev
-cvat/server:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+cvat/ui：dev
+traefik:v2.10
+openpolicyagent/opa:0.63.0
+clickhouse/clickhouse-server:23.11-alpine
+timberio/vector:0.26.0-alpine
+grafana/grafana-oss:10.1.2

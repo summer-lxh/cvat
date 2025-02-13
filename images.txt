@@ -1,2 +1,2 @@
-cvat/ui：dev
+cvat/ui:dev
 

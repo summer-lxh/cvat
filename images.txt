@@ -1,3 +1,4 @@
-redis:7.2.3-alpine
-apache/kvrocks:2.7.0
+cvat/ui：dev
+traefik:v2.10
+openpolicyagent/opa:0.63.0
 

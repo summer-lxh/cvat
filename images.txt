@@ -1,2 +1,1 @@
-golang:1.23.0 
-
+nginx:1.25.4-alpine3.18

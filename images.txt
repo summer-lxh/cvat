@@ -1,1 +1,1 @@
- nginx:1.25.4-alpine3.18
+cvat/server:v2.12.1

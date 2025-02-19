@@ -1,3 +1,5 @@
-langgenius/dify-api:1.0.0-beta.1
-langgenius/dify-web:1.0.0-beta.1
-
+postgres:15-alpine
+nginx:latest
+langgenius/qdrant:v1.7.3
+pgvector/pgvector:pg16
+tensorchord/pgvecto-rs:pg16-v0.3.0
